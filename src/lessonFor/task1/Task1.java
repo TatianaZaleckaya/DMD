@@ -1,4 +1,4 @@
-package task1;
+package lessonFor.task1;
 // Программа высчитывающая факториал целого числа
 
 public class Task1 {

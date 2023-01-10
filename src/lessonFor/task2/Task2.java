@@ -1,4 +1,4 @@
-package task2;
+package lessonFor.task2;
 //Имеется число. Посчитать сумму цифр данного числа
 public class Task2 {
     public static void main(String[] args) {
